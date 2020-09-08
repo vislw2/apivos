@@ -1,2 +1,7 @@
-https://cdn.jsdelivr.net/gh/vislw2/apivos/sfww.json
-123
+你的 CDN 链接 想手动刷新时 把链接中的
+
+https://cdn.jsdelivr.net/
+替换成
+
+https://purge.jsdelivr.net/
+即可实时刷新
